@@ -1,0 +1,11 @@
+/home/rafaelquines/dotnet_projects/rabbit-tests/routing/bin/Debug/netcoreapp2.1/routing.deps.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/routing/bin/Debug/netcoreapp2.1/routing.runtimeconfig.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/routing/bin/Debug/netcoreapp2.1/routing.runtimeconfig.dev.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/routing/bin/Debug/netcoreapp2.1/routing.dll
+/home/rafaelquines/dotnet_projects/rabbit-tests/routing/bin/Debug/netcoreapp2.1/routing.pdb
+/home/rafaelquines/dotnet_projects/rabbit-tests/routing/obj/Debug/netcoreapp2.1/routing.csprojAssemblyReference.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/routing/obj/Debug/netcoreapp2.1/routing.csproj.CoreCompileInputs.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/routing/obj/Debug/netcoreapp2.1/routing.AssemblyInfoInputs.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/routing/obj/Debug/netcoreapp2.1/routing.AssemblyInfo.cs
+/home/rafaelquines/dotnet_projects/rabbit-tests/routing/obj/Debug/netcoreapp2.1/routing.dll
+/home/rafaelquines/dotnet_projects/rabbit-tests/routing/obj/Debug/netcoreapp2.1/routing.pdb

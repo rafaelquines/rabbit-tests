@@ -1,0 +1,11 @@
+/home/rafaelquines/dotnet_projects/rabbit-tests/rpc/bin/Debug/netcoreapp2.1/rpc.deps.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/rpc/bin/Debug/netcoreapp2.1/rpc.runtimeconfig.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/rpc/bin/Debug/netcoreapp2.1/rpc.runtimeconfig.dev.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/rpc/bin/Debug/netcoreapp2.1/rpc.dll
+/home/rafaelquines/dotnet_projects/rabbit-tests/rpc/bin/Debug/netcoreapp2.1/rpc.pdb
+/home/rafaelquines/dotnet_projects/rabbit-tests/rpc/obj/Debug/netcoreapp2.1/rpc.csprojAssemblyReference.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/rpc/obj/Debug/netcoreapp2.1/rpc.csproj.CoreCompileInputs.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/rpc/obj/Debug/netcoreapp2.1/rpc.AssemblyInfoInputs.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/rpc/obj/Debug/netcoreapp2.1/rpc.AssemblyInfo.cs
+/home/rafaelquines/dotnet_projects/rabbit-tests/rpc/obj/Debug/netcoreapp2.1/rpc.dll
+/home/rafaelquines/dotnet_projects/rabbit-tests/rpc/obj/Debug/netcoreapp2.1/rpc.pdb

@@ -1,0 +1,11 @@
+/home/rafaelquines/dotnet_projects/rabbit-tests/topics/bin/Debug/netcoreapp2.1/topics.deps.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/topics/bin/Debug/netcoreapp2.1/topics.runtimeconfig.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/topics/bin/Debug/netcoreapp2.1/topics.runtimeconfig.dev.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/topics/bin/Debug/netcoreapp2.1/topics.dll
+/home/rafaelquines/dotnet_projects/rabbit-tests/topics/bin/Debug/netcoreapp2.1/topics.pdb
+/home/rafaelquines/dotnet_projects/rabbit-tests/topics/obj/Debug/netcoreapp2.1/topics.csprojAssemblyReference.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/topics/obj/Debug/netcoreapp2.1/topics.csproj.CoreCompileInputs.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/topics/obj/Debug/netcoreapp2.1/topics.AssemblyInfoInputs.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/topics/obj/Debug/netcoreapp2.1/topics.AssemblyInfo.cs
+/home/rafaelquines/dotnet_projects/rabbit-tests/topics/obj/Debug/netcoreapp2.1/topics.dll
+/home/rafaelquines/dotnet_projects/rabbit-tests/topics/obj/Debug/netcoreapp2.1/topics.pdb

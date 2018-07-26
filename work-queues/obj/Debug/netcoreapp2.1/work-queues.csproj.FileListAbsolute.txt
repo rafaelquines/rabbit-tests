@@ -1,0 +1,11 @@
+/home/rafaelquines/dotnet_projects/rabbit-tests/work-queues/bin/Debug/netcoreapp2.1/work-queues.deps.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/work-queues/bin/Debug/netcoreapp2.1/work-queues.runtimeconfig.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/work-queues/bin/Debug/netcoreapp2.1/work-queues.runtimeconfig.dev.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/work-queues/bin/Debug/netcoreapp2.1/work-queues.dll
+/home/rafaelquines/dotnet_projects/rabbit-tests/work-queues/bin/Debug/netcoreapp2.1/work-queues.pdb
+/home/rafaelquines/dotnet_projects/rabbit-tests/work-queues/obj/Debug/netcoreapp2.1/work-queues.csprojAssemblyReference.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/work-queues/obj/Debug/netcoreapp2.1/work-queues.csproj.CoreCompileInputs.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/work-queues/obj/Debug/netcoreapp2.1/work-queues.AssemblyInfoInputs.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/work-queues/obj/Debug/netcoreapp2.1/work-queues.AssemblyInfo.cs
+/home/rafaelquines/dotnet_projects/rabbit-tests/work-queues/obj/Debug/netcoreapp2.1/work-queues.dll
+/home/rafaelquines/dotnet_projects/rabbit-tests/work-queues/obj/Debug/netcoreapp2.1/work-queues.pdb

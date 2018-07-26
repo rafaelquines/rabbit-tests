@@ -1,0 +1,11 @@
+/home/rafaelquines/dotnet_projects/rabbit-tests/pub-sub/bin/Debug/netcoreapp2.1/pub-sub.deps.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/pub-sub/bin/Debug/netcoreapp2.1/pub-sub.runtimeconfig.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/pub-sub/bin/Debug/netcoreapp2.1/pub-sub.runtimeconfig.dev.json
+/home/rafaelquines/dotnet_projects/rabbit-tests/pub-sub/bin/Debug/netcoreapp2.1/pub-sub.dll
+/home/rafaelquines/dotnet_projects/rabbit-tests/pub-sub/bin/Debug/netcoreapp2.1/pub-sub.pdb
+/home/rafaelquines/dotnet_projects/rabbit-tests/pub-sub/obj/Debug/netcoreapp2.1/pub-sub.csprojAssemblyReference.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/pub-sub/obj/Debug/netcoreapp2.1/pub-sub.csproj.CoreCompileInputs.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/pub-sub/obj/Debug/netcoreapp2.1/pub-sub.AssemblyInfoInputs.cache
+/home/rafaelquines/dotnet_projects/rabbit-tests/pub-sub/obj/Debug/netcoreapp2.1/pub-sub.AssemblyInfo.cs
+/home/rafaelquines/dotnet_projects/rabbit-tests/pub-sub/obj/Debug/netcoreapp2.1/pub-sub.dll
+/home/rafaelquines/dotnet_projects/rabbit-tests/pub-sub/obj/Debug/netcoreapp2.1/pub-sub.pdb
